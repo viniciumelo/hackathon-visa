@@ -1,0 +1,125 @@
+header{
+
+	background-color:#20558B;
+	max-height:170px;
+}
+
+h1 {
+
+	font-family: 'Raleway', sans-serif;
+	text-align:center;
+	text-transform: uppercase;
+	font-weight: 400;	
+	color:#fffff;	
+	margin-top: 0px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+#h1Topo{
+	font-family: 'Raleway', sans-serif;
+	text-align:center;
+	font-weight: 400;	
+	color:#20558B;
+	padding-bottom: 60px;
+}
+
+#containerMiddle{
+	max-height: 600px;
+}
+
+#rowContainerMiddle{	
+	float: none;
+	margin: 0 auto;
+	margin-top: 30px;
+}
+
+#Helloworld1{
+	height:750px;
+	background-color:#C54832;
+	background: url(../img/helloVR1.png) 50% 0 fixed no-repeat;
+    position: relative; 	
+}
+#Helloworld2{
+	height:750px;
+	background-color:#004c82;
+	background: url(../img/helloVR2.png) 50% 0 fixed no-repeat;
+    position: relative; 
+		
+}
+#Helloworld5{
+	height:750px;
+	background-color:#C54832;
+	background: url(../img/helloVR5.png) 50% 0 fixed no-repeat;
+    position: relative; 	
+}
+#Helloworld7{
+	height:750px;
+	background-color:#004c82;
+	background: url(../img/helloVR7.png) 50% 0 fixed no-repeat;
+    position: relative; 
+		
+}
+#Helloworld8{
+	height:100%;
+	background-color:#C54832;
+	background: url(../img/helloVR8.png) 50% 0 fixed no-repeat;
+    position: relative; 	
+}
+#HelloVR3{
+	height:750px;
+	background-color:#004c82;
+	background: url(../img/helloVR3.png) 50% 0 fixed no-repeat;
+    position: relative; 
+		
+}
+#HelloVR4{
+	height:750px;
+	background-color:#004c82;
+	background: url(../img/helloVR4.png) 50% 0 fixed no-repeat;
+    position: relative; 
+		
+}
+#HelloVR5{
+	height:750px;
+	background-color:#004c82;
+	background: url(../img/helloVR5.png) 50% 0 fixed no-repeat;
+    position: relative; 
+		
+}
+#novidades{
+	
+	background-color:39A0AB;
+	background: url(../img/helloVR4.png) 50% 0 fixed no-repeat;
+    position: relative; 
+		
+}
+#footerMenu{
+	margin-top:40px;
+	margin-bottom: 0px;
+}
+
+footer{
+
+	background-color:#fff;
+    background: url(../img/helloVR1.png) 50% 0 fixed no-repeat;
+    position: relative;	
+}
+
+.spanFooterBar{
+	color:#6584a6;
+	font-family: 'Raleway', sans-serif;
+	font-size:14px;
+	font-weight: 500;	
+}
+
+.socialIcons li{
+	display: inline-block;
+	list-style: none;
+	margin-left:10px;
+}
+
+.socialIcons li:hover{
+	opacity:0.5;
+	filter:Alpha(opacity=50); /* IE8 and earlier */	
+}
