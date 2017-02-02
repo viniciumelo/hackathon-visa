@@ -3,7 +3,6 @@
 <html lang="en">
   <head>
 
-
   	  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script>
   (adsbygoogle = window.adsbygoogle || []).push({
@@ -17,15 +16,11 @@
 <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
     <title>Packbuy</title>
 
-
-    <meta name="Vinicius Melo" content="Packbuy">
-
     <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
 	<link href="css/customCss.css" rel="stylesheet">
-
       <script type="text/javascript">
          function onVisaCheckoutReady(){
          V.init( {
@@ -48,6 +43,7 @@
   <body>
 
     <div class="container-fluid">
+
 	     <div class="row">
 
 		       <div class="col-md-12">
@@ -116,6 +112,7 @@ require_once 'system/database.php';
             ?>
 
   </div>
+
 </div>
 </div>
     <?php include'includes/rodape.php';?>
